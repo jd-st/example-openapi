@@ -1,8 +1,6 @@
 name: Build SDKs for pull request
 
 on:
-  workflow_dispatch:
-    inputs: {}
   pull_request:
     types:
       - opened
