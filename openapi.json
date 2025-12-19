@@ -27,7 +27,7 @@
     "/pet": {
       "put": {
         "tags": ["pet"],
-        "summary": "Update an existing pet.",
+        "summary": "Update an existing pet for real.",
         "description": "Update an existing pet by Id.",
         "operationId": "updatePet",
         "requestBody": {
